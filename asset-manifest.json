@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/torre-test-deploy/static/css/main.b66e9a21.chunk.css",
-    "main.js": "/torre-test-deploy/static/js/main.87c2349a.chunk.js",
-    "main.js.map": "/torre-test-deploy/static/js/main.87c2349a.chunk.js.map",
+    "main.js": "/torre-test-deploy/static/js/main.fdc077ec.chunk.js",
+    "main.js.map": "/torre-test-deploy/static/js/main.fdc077ec.chunk.js.map",
     "runtime-main.js": "/torre-test-deploy/static/js/runtime-main.840c8443.js",
     "runtime-main.js.map": "/torre-test-deploy/static/js/runtime-main.840c8443.js.map",
     "static/js/2.f1bedb78.chunk.js": "/torre-test-deploy/static/js/2.f1bedb78.chunk.js",
     "static/js/2.f1bedb78.chunk.js.map": "/torre-test-deploy/static/js/2.f1bedb78.chunk.js.map",
     "index.html": "/torre-test-deploy/index.html",
-    "precache-manifest.b64fbf9e18e38b052a6b5fc1a6ab282a.js": "/torre-test-deploy/precache-manifest.b64fbf9e18e38b052a6b5fc1a6ab282a.js",
+    "precache-manifest.1649f9dd84c6a470e150eecd4256f2a3.js": "/torre-test-deploy/precache-manifest.1649f9dd84c6a470e150eecd4256f2a3.js",
     "service-worker.js": "/torre-test-deploy/service-worker.js",
     "static/css/main.b66e9a21.chunk.css.map": "/torre-test-deploy/static/css/main.b66e9a21.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.840c8443.js",
     "static/js/2.f1bedb78.chunk.js",
     "static/css/main.b66e9a21.chunk.css",
-    "static/js/main.87c2349a.chunk.js"
+    "static/js/main.fdc077ec.chunk.js"
   ]
 }
